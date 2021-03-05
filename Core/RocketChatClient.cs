@@ -419,7 +419,7 @@ namespace Rocker.Chat.RestApiClient.Core
             }
             else
             {
-                throw new Exception("msgId == null");
+                throw new ArgumentException(nameof(msgId));
             }
         }
 
@@ -434,7 +434,7 @@ namespace Rocker.Chat.RestApiClient.Core
             }
             else
             {
-                throw new Exception("messageId == null");
+                throw new ArgumentException(nameof(messageId));
             }
         }
 

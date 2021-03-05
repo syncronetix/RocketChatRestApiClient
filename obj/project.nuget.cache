@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "99LB8cUP8xmyRVEXo1NFrkoBTrSYe2+RGpKz0s88GNK0x14mr2a9+XQ5W4NN447mjc6YPeYcSnuIzR+dBFUyrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MyPc\\Source\\Repos\\RocketChatRestApiClient\\Rocker.Chat.RestApiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MyPc\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\MyPc\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\MyPc\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\MyPc\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\MyPc\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\MyPc\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\MyPc\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\MyPc\\.nuget\\packages\\restsharp\\106.6.9\\restsharp.106.6.9.nupkg.sha512"
+  ],
+  "logs": []
+}
